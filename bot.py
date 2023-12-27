@@ -39,4 +39,4 @@ for i in exts:
     bot.load_extension(i)
 
 
-bot.run(os.environ['TOKEN'])
+bot.run(os.environ['MTE4Njk5Njk3NzIyMTc2NzIwOQ.Gq3gHx.GnqygoUzPFwbwq7UE2VFm-Gk3Y29a231POhPrA'])
